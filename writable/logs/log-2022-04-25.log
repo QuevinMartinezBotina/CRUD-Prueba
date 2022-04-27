@@ -1,0 +1,82 @@
+ERROR - 2022-04-25 22:53:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-04-25 23:33:10 --> Access level to App\Controllers\SingerController::$response must be protected (as in class App\Controllers\BaseController) or weaker
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-25 23:33:30 --> Access level to App\Controllers\SingerController::$response must be protected (as in class App\Controllers\BaseController) or weaker
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-25 23:33:57 --> Cannot use object of type CodeIgniter\HTTP\Response as array
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:35:12 --> Cannot use object of type CodeIgniter\HTTP\Response as array
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:36:22 --> Cannot use object of type CodeIgniter\HTTP\Response as array
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:39:19 --> Type of App\Controllers\SingerController::$response must not be defined (as in class App\Controllers\BaseController)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-25 23:53:11 --> Too few arguments to function App\Controllers\SingerController::get(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->get()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-25 23:55:57 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-25 23:55:57 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '$id')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(52): CodeIgniter\BaseModel->find('$id')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->get('$id')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 23:56:14 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-25 23:56:14 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(52): CodeIgniter\BaseModel->find('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->get('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 23:57:16 --> Too few arguments to function App\Controllers\SingerController::get(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->get()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:57:42 --> Too few arguments to function App\Controllers\SingerController::get(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->get()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:58:17 --> Too few arguments to function App\Controllers\SingerController::find(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->find()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:59:04 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 23:59:36 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

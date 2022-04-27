@@ -1,0 +1,562 @@
+CRITICAL - 2022-04-26 05:41:08 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\Ejercicios\CRUD-Prueba\spark(45): require('C:\\wamp64\\www\\E...')
+#4 {main}
+CRITICAL - 2022-04-26 05:41:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\Ejercicios\CRUD-Prueba\spark(45): require('C:\\wamp64\\www\\E...')
+#4 {main}
+CRITICAL - 2022-04-26 05:41:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\Ejercicios\CRUD-Prueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\Ejercicios\CRUD-Prueba\spark(45): require('C:\\wamp64\\www\\E...')
+#4 {main}
+CRITICAL - 2022-04-26 05:44:14 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\laragon\www\CRUD-Prueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\laragon\www\CRUD-Prueba\spark(45): require('C:\\laragon\\www\\...')
+#4 {main}
+CRITICAL - 2022-04-26 05:46:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\laragon\www\CRUD-Prueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\laragon\www\CRUD-Prueba\spark(45): require('C:\\laragon\\www\\...')
+#4 {main}
+CRITICAL - 2022-04-26 00:00:13 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:00:41 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:01:53 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:02:04 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:02:12 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:04:11 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:04:25 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:05:17 --> Too few arguments to function App\Controllers\SingerController::getSinger(), 0 passed in C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 00:10:14 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:10:37 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:13:30 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:13:40 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:14:01 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('0')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:22:08 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('0')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:25:32 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 59, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:25:41 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 59, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 00:25:53 --> A non-numeric value encountered
+#0 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\laragon\\www\\...', 59, Array)
+#1 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger()
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-26 00:28:32 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:28:32 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(53): CodeIgniter\BaseModel->find('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:31:01 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:31:01 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(52): CodeIgniter\BaseModel->find('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:33:39 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:33:39 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(51): CodeIgniter\BaseModel->find('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:34:37 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:34:37 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(51): CodeIgniter\BaseModel->find('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:35:08 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:35:08 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '1')
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(51): CodeIgniter\BaseModel->find('1')
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:37:58 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:37:58 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(51): CodeIgniter\BaseModel->find(1)
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:40:47 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:40:47 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(51): CodeIgniter\BaseModel->find(1)
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger('1')
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:43:34 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:43:34 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(54): CodeIgniter\BaseModel->find(1)
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger(1)
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:44:58 --> Unknown column 'singers.id' in 'where clause'
+CRITICAL - 2022-04-26 00:44:58 --> Call to a member function getFirstRow() on bool
+#0 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 1)
+#1 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(54): CodeIgniter\BaseModel->find(1)
+#2 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->getSinger(1)
+#3 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#4 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-26 00:46:49 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 00:47:38 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 02:40:06 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:40:15 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:41:12 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:41:13 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:41:13 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:41:14 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:41:16 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 02:42:40 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-04-26 08:55:54 --> Error connecting to the database: The server requested authentication method unknown to the client
+ERROR - 2022-04-26 13:52:10 --> Column 'name' cannot be null
+ERROR - 2022-04-26 13:52:40 --> Column 'name' cannot be null
+CRITICAL - 2022-04-26 13:52:40 --> Call to undefined method App\Controllers\SingerController::respondCreated()
+#0 C:\wamp64\www\importantes\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->store()
+#1 C:\wamp64\www\importantes\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\wamp64\www\importantes\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\importantes\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-26 13:52:58 --> Column 'name' cannot be null
+ERROR - 2022-04-26 13:53:06 --> Column 'name' cannot be null
+ERROR - 2022-04-26 13:56:02 --> Column 'name' cannot be null
+ERROR - 2022-04-26 13:56:26 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:00:59 --> Column 'name' cannot be null
+CRITICAL - 2022-04-26 14:27:55 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+#0 C:\wamp64\www\importantes\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->store()
+#1 C:\wamp64\www\importantes\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#2 C:\wamp64\www\importantes\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\importantes\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-26 14:31:55 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:35:40 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:38:43 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:39:13 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:39:39 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:39:46 --> Column 'name' cannot be null
+ERROR - 2022-04-26 14:39:49 --> Column 'name' cannot be null
+ERROR - 2022-04-26 15:26:58 --> Table 'singers' already exists
+ERROR - 2022-04-26 16:54:35 --> Column 'name' cannot be null
+ERROR - 2022-04-26 17:00:43 --> Column 'name' cannot be null
+ERROR - 2022-04-26 17:17:06 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 17:17:20 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 17:19:05 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 17:29:34 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 17:29:58 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 17:30:03 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 19:41:38 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-04-26 19:41:38 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(17): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:41:42 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+ERROR - 2022-04-26 19:41:43 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-04-26 19:41:43 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(17): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:41:54 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-04-26 19:41:54 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:41:59 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-04-26 19:41:59 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:42:34 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-04-26 19:42:34 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:42:36 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-04-26 19:42:36 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:42:42 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+ERROR - 2022-04-26 19:42:58 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:42:58 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:43:18 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:43:18 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:44:01 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:44:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:44:26 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:44:26 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:44:29 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:44:29 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:44:30 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:44:30 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:44:53 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:44:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:45:06 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:45:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:45:34 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:45:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:45:37 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:45:37 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:46:24 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:46:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:46:25 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+ERROR - 2022-04-26 19:46:25 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:46:25 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:49:01 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:49:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:49:34 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:49:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(19): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 19:49:50 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-04-26 19:49:50 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\laragon\www\CRUD-Prueba\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\laragon\www\CRUD-Prueba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\laragon\www\CRUD-Prueba\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\laragon\www\CRUD-Prueba\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\laragon\www\CRUD-Prueba\app\Controllers\SingerController.php(19): CodeIgniter\BaseModel->findAll()
+#5 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(832): App\Controllers\SingerController->index()
+#6 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SingerController))
+#7 C:\laragon\www\CRUD-Prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\CRUD-Prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-26 20:56:53 --> Column 'name' cannot be null
+ERROR - 2022-04-26 20:57:01 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 23:28:58 --> Unknown column 'singers.id' in 'where clause'
+ERROR - 2022-04-26 23:29:35 --> Unknown column 'singers.id' in 'where clause'
